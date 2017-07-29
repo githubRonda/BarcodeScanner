@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">BarcodeScanner</string>
+    <string name="service_name">按键监听的无障碍辅助服务</string>
+</resources>
